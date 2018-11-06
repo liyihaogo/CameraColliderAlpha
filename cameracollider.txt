@@ -1,0 +1,6 @@
+游戏中，角色被障碍物挡住，将障碍物设为半透明。
+
+解决思路：
+从射线机发出射线，检测摄像机和角色之间是否有障碍物，如果检测到有，则设置遮挡物的material为半透明材质。
+
+项目地址：https://github.com/liyihaogo/CameraColliderAlpha.git
